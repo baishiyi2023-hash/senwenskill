@@ -1,0 +1,4 @@
+interface:
+  display_name: "发掘高收入"
+  short_description: "逐步盘点经历和被低估的技能，筛选职业与副业机会，生成个人报告和90天行动计划"
+  default_prompt: "使用 $gaoshouru，一步步引导我发掘高收入的可能性，最后生成个人报告和90天行动计划。"

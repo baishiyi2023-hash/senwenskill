@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# 个人访谈和报告不作为 Skill 源码提交
+/reports/
+/private/
+/outputs/
