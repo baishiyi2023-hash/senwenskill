@@ -1,4 +1,4 @@
-# senwenskill · 森文的 Skill 仓库
+# senwens_kill · 森文的 Skill 仓库
 
 把值得反复使用的 AI 工作流做成 Skill，减少重复复制提示词。
 
